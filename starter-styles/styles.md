@@ -1,6 +1,8 @@
+<!-- @format -->
+
 # STARTER STYLES
 
-#### CS-TODO
+#### CS-TODo
 
 If you have merged a SASS/LESS branch into the kit, and want to use the styles from the unmodified kit in your preferred preprocessor, drag and drop the appropriate folder from ./starter-styles into ./src/assets. You're then free to delete the other folder.
 
